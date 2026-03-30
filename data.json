@@ -1,11 +1,14 @@
 {
+    "students" : [
+    
+    {
         "id": 1,
         "name": "Adrian",
         "surename": "Červenka",
         "nickname": "Rašpľa",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Konservendose-1.jpg"
-      },
-    {
+    
+
         "id": 2,
         "name": "Martin",
         "surename": "Mihalovička",
