@@ -1,74 +1,76 @@
 {
-    "students" : [
+    "students": [
     
-    {
-        "id": 1,
-        "name": "Adrian",
-        "surename": "Červenka",
-        "nickname": "Rašpľa",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Konservendose-1.jpg"
+        {
+            "id": 1,
+            "name": "Adrian",
+            "surename": "Červenka",
+            "nickname": "Rašpľa",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Konservendose-1.jpg"
+        
     
+            "id": 2,
+            "name": "Martin",
+            "surename": "Mihalovička",
+            "nickname": "Mirha",
+            "image": "https://www.gasparikmasovyroba.sk/wp-content/uploads/2024/10/recept-bravcove-rizoto-1024x683.webp"
+        },
+        {
+            "id": 3,
+            "name": "Peter",
+            "surename": "Novák",
+            "nickname": "Peťo",
+            "image": "https://www.bendula.sk/fotky3870/fotos/_vyr_13518-4-34KNK50.png"
+        },
+        {
+            "id": 4,
+            "name": "Lucia",
+            "surename": "Kováčová",
+            "nickname": "Luci",
+            "image": "https://pbs.twimg.com/media/GPGWqXrbcAAcm1Y.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Jana",
+            "surename": "Horváthová",
+            "nickname": "Jani",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Down_syndrome_lg.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Tomáš",
+            "surename": "Petržlen",
+            "nickname": "peper",
+            "image": "https://mojdom.zoznam.sk/wp-content/uploads/2020/01/1768823.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Marek",
+            "surename": "Szabó",
+            "nickname": "Maro",
+            "image": "https://cdn.mountfield.cz/content/images/category/original/28824.png"
+        },
+        {
+            "id": 8,
+            "name": "Eva",
+            "surename": "Tóthová",
+            "nickname": "Evi",
+            "image": "https://i.pinimg.com/236x/3e/5d/df/3e5ddfee2a2a786c2d113fdce243e84e.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Filip",
+            "surename": "Baláž",
+            "nickname": "Fifo",
+            "image": "https://www.autocerny.sk/assets/uploads/products/b2648-kanister-PHM-10L-kovovy.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Nikola",
+            "surename": "Urbanová",
+            "nickname": "Niki",
+            "image": "https://i.ytimg.com/vi/lEaZE_1Ppqw/maxresdefault.jpg"
+        }
 
-        "id": 2,
-        "name": "Martin",
-        "surename": "Mihalovička",
-        "nickname": "Mirha",
-        "image": "https://www.gasparikmasovyroba.sk/wp-content/uploads/2024/10/recept-bravcove-rizoto-1024x683.webp"
-    },
-    {
-        "id": 3,
-        "name": "Peter",
-        "surename": "Novák",
-        "nickname": "Peťo",
-        "image": "https://www.bendula.sk/fotky3870/fotos/_vyr_13518-4-34KNK50.png"
-    },
-    {
-        "id": 4,
-        "name": "Lucia",
-        "surename": "Kováčová",
-        "nickname": "Luci",
-        "image": "https://pbs.twimg.com/media/GPGWqXrbcAAcm1Y.jpg"
-    },
-    {
-        "id": 5,
-        "name": "Jana",
-        "surename": "Horváthová",
-        "nickname": "Jani",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Down_syndrome_lg.jpg"
-    },
-    {
-        "id": 6,
-        "name": "Tomáš",
-        "surename": "Petržlen",
-        "nickname": "peper",
-        "image": "https://mojdom.zoznam.sk/wp-content/uploads/2020/01/1768823.jpg"
-    },
-    {
-        "id": 7,
-        "name": "Marek",
-        "surename": "Szabó",
-        "nickname": "Maro",
-        "image": "https://cdn.mountfield.cz/content/images/category/original/28824.png"
-    },
-    {
-        "id": 8,
-        "name": "Eva",
-        "surename": "Tóthová",
-        "nickname": "Evi",
-        "image": "https://i.pinimg.com/236x/3e/5d/df/3e5ddfee2a2a786c2d113fdce243e84e.jpg"
-    },
-    {
-        "id": 9,
-        "name": "Filip",
-        "surename": "Baláž",
-        "nickname": "Fifo",
-        "image": "https://www.autocerny.sk/assets/uploads/products/b2648-kanister-PHM-10L-kovovy.jpg"
-    },
-    {
-        "id": 10,
-        "name": "Nikola",
-        "surename": "Urbanová",
-        "nickname": "Niki",
-        "image": "https://i.ytimg.com/vi/lEaZE_1Ppqw/maxresdefault.jpg"
-    }
-]
+    ]
+}  
